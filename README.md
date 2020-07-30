@@ -1,1 +1,2 @@
-"# DL-back-to-the-basics" 
+# DL-back-to-the-basics
+## Building up the foundation for large networks and intuition behind their working
